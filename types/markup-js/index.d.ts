@@ -1,5 +1,5 @@
-// Type definitions for markup-js 1.5.21
-// Project: https://https://github.com/adammark/Markup.js/1.5.21
+// Type definitions for markup-js 1.5
+// Project: https://https://github.com/adammark/Markup.js
 // Definitions by: JohnnyODev <https://github.com/JohnnyODev>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.3

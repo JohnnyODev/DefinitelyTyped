@@ -5,11 +5,7 @@ const context = {
 	parm2: 2,
 	parm3: "Jane"
 }
-const options = {
-	pipes: null,
-	includes: null,
-	globals: null
-}
+const options = {}
 
 markedup = Mark.up(template, context);
 markedup = Mark.up(template, context, options);
